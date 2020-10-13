@@ -4,7 +4,7 @@
 
 #### Mobile View
 
-<img src="screenshots/2.png" width="50%">
+<img src="screenshots/2.png" width="50%" height="70%">
 
 
 
